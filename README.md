@@ -1,4 +1,5 @@
-# Virtual Internship (SmartInternz) - Android Application Development Using Kotlin
+![pic](https://user-images.githubusercontent.com/114195037/192128860-a9ad912a-32a9-4e46-b01f-e8b4c34beeb4.png)
+ # Virtual Internship (SmartInternz) - Android Application Development Using Kotlin
 
 * Google developer https://g.dev/BittuKumar01
 
@@ -6,7 +7,7 @@
 
 * LinkedIn ID - Http://www.linkedin.com/in/bittu-kumar01
 
-# Grocery-App
+#                                                                  Grocery-App
 
 There are many pre-existing grocery list apps, but all of them don’t get worthy organic traffic due to the complicated user-interface. A broad age group operates such apps; therefore the user interface must be very preliminary and basic. Such apps are downloaded by the user for convenience, so we must not add too many security layers, as we know that security comes at the cost of convenience.
 

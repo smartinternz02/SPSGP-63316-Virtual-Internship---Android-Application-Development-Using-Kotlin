@@ -24,6 +24,18 @@ RecyclerView is a container and it is used to display the collection of data in 
 # * Coroutines
 Coroutines are a lightweight thread, we use a coroutine to perform an operation on other threads, by this our main thread doesn’t block and our app doesn’t crash.
 
+# { Tools Used In Making Grocery App }
+
+
+# * KOTLIN
+Kotlin is a general purpose, free, open source, statically typed “pragmatic” programming language initially designed for the JVM (Java Virtual Machine) and Android that combines object-oriented and functional programming features. It is focused on interoperability, safety, clarity, and tooling support. 
+
+Kotlin originated at JetBrains, the company behind IntelliJ IDEA, in 2010, and has been open source since 2012. The Kotlin team currently has more than 90 full-time members from JetBrains, and the Kotlin project on GitHub has more than 300 contributors. JetBrains uses Kotlin in many of its products including its flagship IntelliJ IDEA.
+
+# * Github
+GitHub is a web-based version-control and collaboration platform for software developers. Microsoft, the biggest single contributor to GitHub, initiated an acquisition of GitHub for $7.5 billion in June, 2018. GitHub, which is delivered through a software-as-a-service (SaaS) business model, was started in 2008 and was founded on Git, an open source code management system created by Linus Torvalds to make software builds faster.
+
+
 # * OUTPUT SCREEN (GROCERY APP)
 
 ![IMG_20220925_104014](https://user-images.githubusercontent.com/114195037/192131396-d6640362-1c43-4263-b854-2e1981972afe.jpg)
